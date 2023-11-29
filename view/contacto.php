@@ -40,7 +40,7 @@ require 'header.php';
         </div>
 
         <input type="hidden" name="_template" value="table">
-        <input type="hidden" name="_next" value=" ">
+        <input type="hidden" name="_next" value="https://turboreparaciones-production.up.railway.app">
         <div class="mb-3">
           <button type="submit" class="btn btn-primary w-100 fs-5">Enviar mensaje</button>
         </div>
