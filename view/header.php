@@ -55,11 +55,11 @@ if (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != "on") {
               </li>
 
               <li class="nav-item">
-                <a class="nav-link" href="nosotros">¿Quienes somos?</a>
+                <a class="nav-link" href="/view/nosotros">¿Quienes somos?</a>
               </li>        
               
               <li class="nav-item">
-                <a class="nav-link" href="contacto">Contacto</a>
+                <a class="nav-link" href="/view/contacto">Contacto</a>
               </li>
 
             </ul>
